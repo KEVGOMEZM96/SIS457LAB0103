@@ -23,7 +23,7 @@ ASIS457LAB0103BlockGrid::ASIS457LAB0103BlockGrid()
 	MibiografiaText = CreateDefaultSubobject<UTextRenderComponent>(TEXT("MibiografiaText0"));
 	MibiografiaText->SetRelativeLocation(FVector(200.f, 0.f, 0.f));
 	MibiografiaText->SetRelativeRotation(FRotator(90.f, 0.f, 0.f));
-	MibiografiaText->SetText(FText::Format(LOCTEXT("MibiografiaFmt", "Mi nombre es Kevin Gomez Mollo: {0}"), FText::AsNumber(0)));
+	MibiografiaText->SetText(FText::Format(LOCTEXT("MibiografiaFmt", "Mi nombre es Kevin Gomez Molloh: {0}"), FText::AsNumber(0)));
 	MibiografiaText->SetupAttachment(DummyRoot);
 
 	// Set defaults
