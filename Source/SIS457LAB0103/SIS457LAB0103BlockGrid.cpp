@@ -23,7 +23,7 @@ ASIS457LAB0103BlockGrid::ASIS457LAB0103BlockGrid()
 	MibiografiaText = CreateDefaultSubobject<UTextRenderComponent>(TEXT("MibiografiaText0"));
 	MibiografiaText->SetRelativeLocation(FVector(200.f, 0.f, 0.f));
 	MibiografiaText->SetRelativeRotation(FRotator(90.f, 0.f, 0.f));
-	MibiografiaText->SetText(FText::Format(LOCTEXT("MibiografiaFmt", "Mi nombre es Kevin Gomez Molloh: {0}"), FText::AsNumber(0)));
+	MibiografiaText->SetText(FText::Format(LOCTEXT("MibiografiaFmt", "Mi nombre es Kevin Gomez Mollo\nTengo 25 años\nNaci el 21 de Julio de 1996,en Buenos Aires Argentina\nMis padres son Valentin Gomez Tito y Eva Mollo Benites\nTengo 4 hermanas llamadas Erika,Nicole,Valentina y Sasha\nTengo un solo abuelo llamado Ramon Gomez\nTengo una novia llamada Maria Luz\nTengo doble nacionalidad tanto argentina como boliviana\nActualmente vivo en la Ciudad de Sucre\nEstudio la carrera de Ingenieria de Sistemas\nMis pasastiempos favoritos son salir a comer ,ir a lugares tranquilos y jugar algunos videojuegos\nMi color favorito es el color verde\nMi club favorito de futbol es Boca Jr\nUno de mis sueños es poder viajar ,conocer lugares y comer comidas exoticas\nActualmente estoy en el tercer curso de la materia de sis457\n: {0}"), FText::AsNumber(0)));
 	MibiografiaText->SetupAttachment(DummyRoot);
 
 	// Set defaults
