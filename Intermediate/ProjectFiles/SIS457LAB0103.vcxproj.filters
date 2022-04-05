@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SIS457LAB0103.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A3CD0FA6-F7E1-4A1D-BEDA-C8D2BA18A00C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SIS457LAB0103.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SIS457LAB0103Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{362A447B-2AE2-443B-9352-A2D99A51DEC9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SIS457LAB0103">
+      <UniqueIdentifier>{512AC7C6-1C36-4784-968D-B684CD688922}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SIS457LAB0103\SIS457LAB0103.Build.cs">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SIS457LAB0103\SIS457LAB0103.cpp">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB0103\SIS457LAB0103.h">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB0103\SIS457LAB0103Block.cpp">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB0103\SIS457LAB0103Block.h">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB0103\SIS457LAB0103BlockGrid.cpp">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB0103\SIS457LAB0103BlockGrid.h">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB0103\SIS457LAB0103GameMode.cpp">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB0103\SIS457LAB0103GameMode.h">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB0103\SIS457LAB0103Pawn.cpp">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB0103\SIS457LAB0103Pawn.h">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB0103\SIS457LAB0103PlayerController.cpp">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB0103\SIS457LAB0103PlayerController.h">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UE\\SIS457LAB0103\\Source\\SIS457LAB0103\\SIS457LAB0103.Build.cs",
+		"C:\\UE\\SIS457LAB0103\\Source\\SIS457LAB0103.Target.cs",
+		"C:\\UE\\SIS457LAB0103\\Source\\SIS457LAB0103Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

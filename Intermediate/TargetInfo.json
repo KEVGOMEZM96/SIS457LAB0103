@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SIS457LAB0103",
+			"Path": "C:\\UE\\SIS457LAB0103\\Source\\SIS457LAB0103.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SIS457LAB0103Editor",
+			"Path": "C:\\UE\\SIS457LAB0103\\Source\\SIS457LAB0103Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
